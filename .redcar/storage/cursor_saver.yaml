@@ -12,9 +12,6 @@ cursor_positions:
   - :path: app/controllers/pages_controller.rb
     :cursor_offset: 40
     :timestamp: 2016-04-28 10:09:27 -04:00
-  - :path: config/routes.rb
-    :cursor_offset: 63
-    :timestamp: 2016-04-27 15:38:46 -04:00
   - :path: app/assets/stylesheets/application.css
     :cursor_offset: 0
     :timestamp: 2016-04-26 15:44:35 -04:00
@@ -24,4 +21,10 @@ cursor_positions:
   - :path: Gemfile
     :cursor_offset: 265
     :timestamp: 2016-04-28 10:26:18 -04:00
+  - :path: .gitignore
+    :cursor_offset: 0
+    :timestamp: 2016-04-26 15:44:35 -04:00
+  - :path: config/routes.rb
+    :cursor_offset: 51
+    :timestamp: 2016-05-02 12:48:29 -04:00
 files_to_retain: 0
