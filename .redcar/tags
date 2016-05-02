@@ -1,0 +1,8 @@
+1462207020
+Application	/Users/stevenparham/RecipeManager/config/application.rb	  class Application 
+ApplicationController	/Users/stevenparham/RecipeManager/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/Users/stevenparham/RecipeManager/app/helpers/application_helper.rb	module ApplicationHelper
+PagesController	/Users/stevenparham/RecipeManager/app/controllers/pages_controller.rb	class PagesController 
+RecipeManager	/Users/stevenparham/RecipeManager/config/application.rb	module RecipeManager
+TestCase	/Users/stevenparham/RecipeManager/test/test_helper.rb	class ActiveSupport::TestCase
+home	/Users/stevenparham/RecipeManager/app/controllers/pages_controller.rb	  def home
