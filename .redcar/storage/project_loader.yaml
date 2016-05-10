@@ -2,3 +2,5 @@
 open_files: 
   - app/assets/stylesheets/custom.css.scss
   - app/views/layouts/application.html.erb
+  - app/views/layouts/_footer.html.erb
+  - app/views/pages/home.html.erb

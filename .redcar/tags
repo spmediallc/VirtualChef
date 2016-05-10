@@ -1,8 +1,14 @@
-1462901764
+1462908729
 Application	/Users/stevenparham/RecipeManager/config/application.rb	  class Application 
 ApplicationController	/Users/stevenparham/RecipeManager/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/Users/stevenparham/RecipeManager/app/helpers/application_helper.rb	module ApplicationHelper
+Chef	/Users/stevenparham/RecipeManager/app/models/chef.rb	class Chef 
+CreateChefs	/Users/stevenparham/RecipeManager/db/migrate/20160510192901_create_chefs.rb	class CreateChefs 
+CreateRecipes	/Users/stevenparham/RecipeManager/db/migrate/20160510191644_create_recipes.rb	class CreateRecipes 
 PagesController	/Users/stevenparham/RecipeManager/app/controllers/pages_controller.rb	class PagesController 
+Recipe	/Users/stevenparham/RecipeManager/app/models/recipe.rb	class Recipe 
 RecipeManager	/Users/stevenparham/RecipeManager/config/application.rb	module RecipeManager
 TestCase	/Users/stevenparham/RecipeManager/test/test_helper.rb	class ActiveSupport::TestCase
+change	/Users/stevenparham/RecipeManager/db/migrate/20160510191644_create_recipes.rb	  def change
+change	/Users/stevenparham/RecipeManager/db/migrate/20160510192901_create_chefs.rb	  def change
 home	/Users/stevenparham/RecipeManager/app/controllers/pages_controller.rb	  def home

@@ -27,9 +27,12 @@ cursor_positions:
   - :path: Gemfile
     :cursor_offset: 1261
     :timestamp: 2016-05-03 12:18:23 -04:00
-  - :path: app/views/layouts/_footer.html.erb
-    :cursor_offset: 58
-    :timestamp: 2016-05-02 13:02:03 -04:00
+  - :path: app/views/layouts/_navigation.html.erb
+    :cursor_offset: 0
+    :timestamp: 2016-05-04 16:22:57 -04:00
+  - :path: "app/views/layouts/_navigation.html.erb "
+    :cursor_offset: 0
+    :timestamp: 2016-05-10 14:24:10 -04:00
   - :path: app/views/pages/home.html.erb
     :cursor_offset: 1021
     :timestamp: 2016-04-28 19:14:42 -04:00
@@ -37,12 +40,12 @@ cursor_positions:
     :cursor_offset: 877
     :timestamp: 2016-05-02 12:36:11 -04:00
   - :path: app/views/layouts/application.html.erb
-    :cursor_offset: 410
-    :timestamp: 2016-05-02 13:06:21 -04:00
-  - :path: app/views/layouts/_navigation.html.erb
-    :cursor_offset: 0
-    :timestamp: 2016-05-04 16:22:57 -04:00
-  - :path: "app/views/layouts/_navigation.html.erb "
-    :cursor_offset: 787
-    :timestamp: 2016-05-04 16:23:16 -04:00
+    :cursor_offset: 1061
+    :timestamp: 2016-05-10 13:35:43 -04:00
+  - :path: app/views/layouts/_footer.html.erb
+    :cursor_offset: 58
+    :timestamp: 2016-05-02 13:02:03 -04:00
+  - :path: app/models/recipe.rb
+    :cursor_offset: 40
+    :timestamp: 2016-05-10 15:22:08 -04:00
 files_to_retain: 0
