@@ -15,18 +15,9 @@ cursor_positions:
   - :path: app/assets/javascripts/application.js
     :cursor_offset: 669
     :timestamp: 2016-04-28 10:32:57 -04:00
-  - :path: .gitignore
-    :cursor_offset: 0
-    :timestamp: 2016-04-26 15:44:35 -04:00
   - :path: config/routes.rb
     :cursor_offset: 51
     :timestamp: 2016-05-02 12:48:29 -04:00
-  - :path: Gemfile.lock
-    :cursor_offset: 0
-    :timestamp: 2016-05-02 13:42:16 -04:00
-  - :path: Gemfile
-    :cursor_offset: 1261
-    :timestamp: 2016-05-03 12:18:23 -04:00
   - :path: app/views/layouts/_navigation.html.erb
     :cursor_offset: 0
     :timestamp: 2016-05-04 16:22:57 -04:00
@@ -45,7 +36,48 @@ cursor_positions:
   - :path: app/views/layouts/_footer.html.erb
     :cursor_offset: 58
     :timestamp: 2016-05-02 13:02:03 -04:00
+  - :path: config.ru
+    :cursor_offset: 0
+    :timestamp: 2016-04-26 15:44:35 -04:00
+  - :path: .gitignore
+    :cursor_offset: 0
+    :timestamp: 2016-04-26 15:44:35 -04:00
+  - :path: Rakefile
+    :cursor_offset: 0
+    :timestamp: 2016-04-26 15:44:35 -04:00
+  - :path: Gemfile.lock
+    :cursor_offset: 0
+    :timestamp: 2016-05-02 13:42:16 -04:00
+  - :path: Gemfile
+    :cursor_offset: 1261
+    :timestamp: 2016-05-03 12:18:23 -04:00
+  - :path: config/environments/production.rb
+    :cursor_offset: 0
+    :timestamp: 2016-04-26 15:44:35 -04:00
+  - :path: config/environments/development.rb
+    :cursor_offset: 0
+    :timestamp: 2016-04-26 15:44:35 -04:00
+  - :path: db/migrate/20160510191644_create_recipes.rb
+    :cursor_offset: 179
+    :timestamp: 2016-05-10 15:20:02 -04:00
+  - :path: db/migrate/20160510192901_create_chefs.rb
+    :cursor_offset: 153
+    :timestamp: 2016-05-10 15:29:59 -04:00
+  - :path: config/environments/test.rb
+    :cursor_offset: 1796
+    :timestamp: 2016-05-10 17:23:20 -04:00
+  - :path: README.rdoc
+    :cursor_offset: 933
+    :timestamp: 2016-05-11 12:39:46 -04:00
   - :path: app/models/recipe.rb
-    :cursor_offset: 40
-    :timestamp: 2016-05-10 15:22:08 -04:00
+    :cursor_offset: 101
+    :timestamp: 2016-05-16 16:36:47 -04:00
+    :selection_offset: 67
+    :block_selection_mode: false
+  - :path: test/models/recipe_test.rb
+    :cursor_offset: 329
+    :timestamp: 2016-05-16 16:36:40 -04:00
+  - :path: test/models/chef_test.rb
+    :cursor_offset: 1421
+    :timestamp: 2016-05-16 16:36:12 -04:00
 files_to_retain: 0

@@ -1,14 +1,21 @@
-1462908729
+1463435541
+AddChefIdToRecipes	/Users/stevenparham/RecipeManager/db/migrate/20160516203948_add_chef_id_to_recipes.rb	class AddChefIdToRecipes 
 Application	/Users/stevenparham/RecipeManager/config/application.rb	  class Application 
 ApplicationController	/Users/stevenparham/RecipeManager/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/Users/stevenparham/RecipeManager/app/helpers/application_helper.rb	module ApplicationHelper
 Chef	/Users/stevenparham/RecipeManager/app/models/chef.rb	class Chef 
+ChefTest	/Users/stevenparham/RecipeManager/test/models/chef_test.rb	class ChefTest 
 CreateChefs	/Users/stevenparham/RecipeManager/db/migrate/20160510192901_create_chefs.rb	class CreateChefs 
 CreateRecipes	/Users/stevenparham/RecipeManager/db/migrate/20160510191644_create_recipes.rb	class CreateRecipes 
 PagesController	/Users/stevenparham/RecipeManager/app/controllers/pages_controller.rb	class PagesController 
 Recipe	/Users/stevenparham/RecipeManager/app/models/recipe.rb	class Recipe 
 RecipeManager	/Users/stevenparham/RecipeManager/config/application.rb	module RecipeManager
+RecipeTest	/Users/stevenparham/RecipeManager/test/models/recipe_test.rb	class RecipeTest 
 TestCase	/Users/stevenparham/RecipeManager/test/test_helper.rb	class ActiveSupport::TestCase
+VALID_EMAIL_REGEX	/Users/stevenparham/RecipeManager/app/models/chef.rb	  VALID_EMAIL_REGEX =
 change	/Users/stevenparham/RecipeManager/db/migrate/20160510191644_create_recipes.rb	  def change
 change	/Users/stevenparham/RecipeManager/db/migrate/20160510192901_create_chefs.rb	  def change
+change	/Users/stevenparham/RecipeManager/db/migrate/20160516203948_add_chef_id_to_recipes.rb	  def change
 home	/Users/stevenparham/RecipeManager/app/controllers/pages_controller.rb	  def home
+setup	/Users/stevenparham/RecipeManager/test/models/chef_test.rb	  def setup
+setup	/Users/stevenparham/RecipeManager/test/models/recipe_test.rb	def setup

@@ -26,3 +26,31 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+
+
+Testing specs for Virtual Chef:
+
+Recipes Table
+
+name: string
+summary: text
+description: text
+
+- name is required
+- name must be between 5 and 100 characters
+- summary is required
+- summary must be between 20 and 250 characters
+- description is required
+- description must be between 50 and 500 characters
+- chef_id is required
+
+Chefs Table
+
+- chefname is required
+- chefname must be between 2 and 25 characters
+- email is required
+- email must be unique
+- email must be valid
+
+
+
